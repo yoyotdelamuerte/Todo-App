@@ -1,0 +1,5 @@
+prendre les billets de train,pending
+faire ses devoirs,pending
+regarder le fim,pending
+faire les courses,completed
+appeler les parents,completed
